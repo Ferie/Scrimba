@@ -1,4 +1,4 @@
-# Challenges from Scrimba
+# Challenge Day 1
 
 Given a rectangle matrix of characters, add a border of asterisks `*` to it.
 
