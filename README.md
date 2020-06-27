@@ -1,5 +1,5 @@
 # Daily challenges from Scrimba
 
-Those are the simple and daily front end challenges that [Scrimba](https://scrimba.com/) send via its newsletter.
+These are the simple Front-End challenges that [Scrimba](https://scrimba.com/) is sending via its newsletter daily.
 
-They are simple exercise that I am solving during my spare time to keep me involved in developing.
+They are simple CSS and/or JavaScript exercises that I am solving during my spare time to keep me involved in developing.
