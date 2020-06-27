@@ -1,16 +1,23 @@
-# Challenge Day 1: Add Border
+# Challenges from Scrimba
 
-## Supporting Scrimba
+Given a rectangle matrix of characters, add a border of asterisks `*` to it.
 
-Since 2017, we have created over 20 free courses on Scrimba, and we're going to
-continue launching free courses. But to pay our bills, we have to charge once
-in a while. So if you've ever wanted to "give back" to Scrimba, you can do that by buying
-	one of our paid courses
+### Example
 
-- [Become a professional React developer](https://scrimba.com/course/greact)
-- [The Responsive Web Design Bootcamp](https://scrimba.com/course/gresponsive)
-- [The Ultimate JavaScript Bootcamp](https://scrimba.com/course/gjavascript)
+```JavaScript
+matrix = [
+	   'asd',
+	   'qwe'
+	 ]
+```
 
-	It would also mean the world to us if you share the courses.  
+the output should be
 
-Happy Coding!
+```JavaScript
+matrix = [
+	   '*****'
+	   '*asd*',
+	   '*qwe*',
+	   '*****'
+	 ]
+```
